@@ -1,0 +1,11 @@
+Para solucionar este caso me apoyare en los metodos que use para el caso 01 trabajo en clases,
+el metodo de crear matriz tengo que agregarle que reciba el m y n (el m vestaba definido).
+
+Para los siguientes metodo tengo una idea base porque tengo unos metodos que trabaje fueran de clases
+y faltaria ajustarlos a lo que pide el caso.
+Usare metodos para crear matriz, llenar matriz, validar numeros positivos, recorrer filas, desplegar menu,
+leer opciones y principalmente eso.
+
+El menu desplegara las opciones que el usuario puede escoger y dependiendo de la opciones que lea ejecutara
+el o los metodos nesesarios.
+
